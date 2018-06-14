@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jvm-crypto:jar-core">
+    <output-path>$PROJECT_DIR$/out/artifacts/jvm_crypto_jar_core</output-path>
+    <root id="archive" name="jvm-crypto-core.jar">
+      <element id="module-output" name="jvm-crypto" />
+    </root>
+  </artifact>
+</component>
